@@ -95,7 +95,7 @@ class EjemploPila
   - `Enqueue`: añade un elemento al final.
   - `Dequeue`: elimina el primer elemento.
 
-![Imagen Cola ](cola.png)
+![Imagen Cola ](Cola.png)
 
 
 ```csharp
