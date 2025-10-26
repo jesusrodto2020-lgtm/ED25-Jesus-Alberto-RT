@@ -2,7 +2,7 @@ using System;
 //Ejercicio 5
 //                          Jesus Alberto Rodriguez Torres 24100668
 
-// Clase Elemento que seria el Nodo 
+// Clase Elemento que serian los Nodos en la clase Cola/Fila
 public class Elemento<Tipo>
 {
     public Tipo Valor { get; set; }
